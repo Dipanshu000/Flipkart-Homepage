@@ -1,0 +1,41 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my2{
+    margin: 22px 17px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.my3{
+    margin: 5px 0;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.my4{
+    margin: 22px 0px 22px 25px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.my5{
+    margin: 22px 0px 22px 80px;
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.my6{
+    font-size: 30px;
+    font-family: 'Kantumruy Pro', sans-serif;
+    margin: 5px 0px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.price-color{
+    color: rgb(0, 113, 0);;
+}
